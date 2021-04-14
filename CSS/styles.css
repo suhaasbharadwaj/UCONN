@@ -38,6 +38,9 @@ background-color: #66bfbf;
 padding: 50px 0 20px;
 }
 
+#intro{
+  padding:0 17% 0 17%
+}
 
 .web {
   text-decoration: underline;
